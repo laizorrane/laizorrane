@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="UTF-8">
-    <title>Laizorrane Oliveira - Desenvolvedora Fullstack</title>
-</head>
 <body>
     <h1 align="center">Olá 👋, eu sou Laizorrane Oliveira</h1>
     <h3 align="center">Desenvolvedora Fullstack com foco em Java.</h3>
