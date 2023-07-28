@@ -1,28 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Laizorrane Oliveira - Desenvolvedora Fullstack</title>
-    <style>
-        .container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-wrap: wrap;
-            text-align: center;
-        }
-        .column {
-            margin: 20px;
-        }
-        h4 {
-            margin-top: 30px;
-        }
-    </style>
-</head>
 <body>
     <h1 align="center">Olá 👋, eu sou Laizorrane Oliveira</h1>
     <h3 align="center">Desenvolvedora Fullstack com foco em Java.</h3>
     <div class="container">
-        <div class="column">
+        <div>
             <h3>Tecnologias:</h3>
             <h4>Linguagens:</h4>
             <ul>
@@ -36,7 +18,7 @@
                 <li>Angular</li>
             </ul>
         </div>
-        <div class="column">
+        <div>
             <h4>Banco de Dados:</h4>
             <ul>
                 <li>MongoDB</li>
