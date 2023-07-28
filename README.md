@@ -8,40 +8,29 @@
             <h3>Tecnologias:</h3>
             <h4>Linguagens:</h4>
             <ul>
-                <li>Java</li>
-                <li>JavaScript</li>
-                <li>TypeScript</li>
+                <li>Java / JavaScript / TypeScript</li>
             </ul>
             <h4>Frameworks:</h4>
             <ul>
-                <li>Spring</li>
-                <li>Angular</li>
+                <li>SpringBoot / Spring Framework / Angular / PrimeFaces / JSF / Google Web Toolkit (GWT) / </li>
             </ul>
         </div>
         <div>
             <h4>Banco de Dados:</h4>
             <ul>
-                <li>MongoDB</li>
-                <li>MySQL</li>
-                <li>Oracle</li>
-                <li>PostgreSQL</li>
+                <li>MongoDB / MySQL / Oracle / PostgreSQL</li>
             </ul>
-            <h4>Outros:</h4>
+            <h4>Bibliotecas e Demais:</h4>
             <ul>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>PrimeFaces</li>
-                <li>JSF</li>
-                <li>Google Web Toolkit (GWT)</li>
-                <li>AppSheet</li>
-                <li>Android</li>
-                <li>Amazon Web Services (AWS)</li>
-                <li>Microsoft Azure</li>
-                <li>Bootstrap</li>
-                <li>Docker</li>
-                <li>Git</li>
-                <li>Linux</li>
-                <li>Postman</li>
+                <li>HTML / CSS / Bootstrap / Swagger</li>
+            </ul>
+                <h4>Conteiner e Nuvem:</h4>
+            <ul>
+                <li>Amazon Web Services (AWS) / Microsoft Azure / Docker / Apache Tomcat</li>
+            </ul>
+                <h4>Outros:</h4>
+            <ul>
+                <li>AppSheet / Android / Git / Linux / Postman</li>
             </ul>
         </div>
     </div>
