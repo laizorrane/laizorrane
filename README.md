@@ -9,12 +9,10 @@
     <h3 align="center">Desenvolvedora Fullstack com foco em Java.</h3>
     <h3 align="center">Trabalho com as seguintes linguagens e frameworks: Java, Spring, Spring Boot, Angular, JavaScript, HTML, CSS, PrimeFaces, Oracle, SQL, JSF, GWT, AppSheet.</h3>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=laizorrane&label=Profile%20views&color=0e75b6&style=flat" alt="laizorrane" /> </p>
-
     <div>
         <img height="165em" src="https://github-readme-stats.vercel.app/api?username=laizorrane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="laizorrane" />
         <img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=laizorrane&theme=dark&date_format=j%2Fn%5B%2FY%5D" alt="laizorrane" />
     </div>
-
     <h3 align="left">Connect with me:</h3>
     <p align="left">
         <a href="https://www.linkedin.com/in/laizorrane/" target="_blank" rel="noreferrer">
@@ -27,7 +25,6 @@
             <img src="https://img.shields.io/badge/email--_.svg?style=social&logo=gmail" alt="E-mail" height="20" />
         </a>
     </p>
-
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -43,5 +40,6 @@
         <img src="https://cdn.worldvectorlogo.com/logos/google-web-toolkit.svg" alt="GWT" width="40" height="40"/>
         <img src="https://seeklogo.com/images/A/appsheet-logo-3F29CCBE37-seeklogo.com.png" alt="AppSheet" width="40" height="40"/>
     </p>
+   </div>
 </body>
 </html>
