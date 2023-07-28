@@ -7,7 +7,45 @@
 <body>
     <h1 align="center">Olá 👋, eu sou Laizorrane Oliveira</h1>
     <h3 align="center">Desenvolvedora Fullstack com foco em Java.</h3>
-    <h3 align="center">Trabalho com as seguintes linguagens e frameworks: Java, Spring, Spring Boot, Angular, JavaScript, HTML, CSS, PrimeFaces, Oracle, SQL, JSF, GWT, AppSheet.</h3>
+    <h3 align="center">Trabalho com as seguintes tecnologias: </h3>
+<h4>Linguagens:</h4>
+<ul>
+    <li>Java</li>
+    <li>JavaScript</li>
+    <li>TypeScript</li>
+</ul>
+
+<h4>Frameworks:</h4>
+<ul>
+    <li>Spring</li>
+    <li>Angular</li>
+</ul>
+
+<h4>Banco de Dados:</h4>
+<ul>
+    <li>MongoDB</li>
+    <li>MySQL</li>
+    <li>Oracle</li>
+    <li>PostgreSQL</li>
+</ul>
+
+<h4>Outros:</h4>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>PrimeFaces</li>
+    <li>JSF</li>
+    <li>Google Web Toolkit (GWT)</li>
+    <li>AppSheet</li>
+    <li>Android</li>
+    <li>Amazon Web Services (AWS)</li>
+    <li>Microsoft Azure</li>
+    <li>Bootstrap</li>
+    <li>Docker</li>
+    <li>Git</li>
+    <li>Linux</li>
+    <li>Postman</li>
+</ul>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=laizorrane&label=Profile%20views&color=0e75b6&style=flat" alt="laizorrane" /> </p>
     <div>
         <img height="165em" src="https://github-readme-stats.vercel.app/api?username=laizorrane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="laizorrane" />
