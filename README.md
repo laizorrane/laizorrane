@@ -22,7 +22,7 @@
             </ul>
             <h4>Bibliotecas e Demais:</h4>
             <ul>
-                <li>HTML / CSS / Bootstrap / Swagger / Quasar</li>
+                <li>HTML / CSS / Bootstrap / Swagger / Hateoas / Quasar</li>
             </ul>
                 <h4>Conteiner e Nuvem:</h4>
             <ul>
