@@ -8,11 +8,11 @@
             <h3>Tecnologias:</h3>
             <h4>Linguagens:</h4>
             <ul>
-                <li>Java / JavaScript / TypeScript</li>
+                <li>Java / JavaScript / TypeScript / Golang / Kotlin / Nativo / C#</li>
             </ul>
             <h4>Frameworks:</h4>
             <ul>
-                <li>SpringBoot / Spring Framework / Angular / PrimeFaces / JSF / Google Web Toolkit (GWT) / </li>
+                <li>SpringBoot / Spring Framework / Angular.js / Angular +v.9 / Vue v.3 / PrimeFaces / JSF / Google Web Toolkit (GWT) / </li>
             </ul>
         </div>
         <div>
@@ -22,7 +22,7 @@
             </ul>
             <h4>Bibliotecas e Demais:</h4>
             <ul>
-                <li>HTML / CSS / Bootstrap / Swagger</li>
+                <li>HTML / CSS / Bootstrap / Swagger / Quasar</li>
             </ul>
                 <h4>Conteiner e Nuvem:</h4>
             <ul>
