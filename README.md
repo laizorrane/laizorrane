@@ -24,9 +24,9 @@
             <ul>
                 <li>HTML / CSS / Bootstrap / Swagger / Hateoas / Quasar</li>
             </ul>
-                <h4>Conteiner e Nuvem:</h4>
+                <h4>DevOps:</h4>
             <ul>
-                <li>Amazon Web Services (AWS) / Microsoft Azure / Docker / Apache Tomcat</li>
+                <li>Amazon Web Services (AWS) / Microsoft Azure / Docker / Apache Tomcat / Kafka / RabbitMQ</li>
             </ul>
                 <h4>Outros:</h4>
             <ul>
